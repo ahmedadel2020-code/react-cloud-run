@@ -1,0 +1,8 @@
+site_name: "react-cloud-run"
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

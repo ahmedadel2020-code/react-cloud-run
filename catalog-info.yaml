@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "react-cloud-run"
+  annotations:
+    github.com/project-slug: ahmedadel2020-code/react-cloud-run
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/gcp"
